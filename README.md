@@ -6,5 +6,6 @@ It allows a user to record their voice and play it back with a variety of modifi
 
 To Run:
 
+* Clone this repo
 * Open the project file in XCode
 * Hit the play button
